@@ -10,3 +10,4 @@ This can also be used to make sure the program is function as intended when give
 It is important to test each program you make in case something wildy incorrect happens to your code.
 
 
+[Table Of Contents](README.md)

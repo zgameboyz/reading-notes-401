@@ -21,3 +21,8 @@
 [12](reading-12.md)
 [13](reading-13.md)
 [14](reading-14.md)
+[15](reading-15.md)
+[16](reading-16.md)
+[17](reading-17.md)
+[18](reading-18.md)
+[19](reading-19.md)

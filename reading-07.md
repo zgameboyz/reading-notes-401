@@ -13,3 +13,5 @@ The benefit of interfaces is to allow classes to utilize the methods in the inte
 
 Interfaces are always implemented by more than one class or there is no point. 
 
+[Table Of Contents](README.md)
+

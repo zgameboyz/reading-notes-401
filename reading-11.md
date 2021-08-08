@@ -34,3 +34,5 @@ They are used to create the structure of the database.
 There are a bunch of Database keys such as a Primary key, Foreign Key and a Composite Key. 
 
 There are relationships in databases as well. Such as a 1:1 relationship a Many:many relationship or a mixture of the two.
+
+[Table Of Contents](README.md)

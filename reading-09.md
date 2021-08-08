@@ -40,3 +40,5 @@ A query is not executed until you iterate over the query variable, for example, 
 At compile time, query expressions are converted to Standard Query Operator method calls according to the rules set forth in the C# specification.
 Any query that can be expressed by using query syntax can also be expressed by using method syntax.
 However, in most cases query syntax is more readable and concise. For more information, see C# language specification and Standard query operators overview.
+
+[Table Of Contents](README.md)

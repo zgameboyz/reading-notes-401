@@ -11,4 +11,6 @@ A collection is a class and an instance must be declared of that class before yo
 
 If the collection only contains one data type you can use one of the classes in the System.Collections.Generic namespace.
 
-Enumeration types are a value type defined by a set of named constants of the underlying intergal numeric type. 
+Enumeration types are a value type defined by a set of named constants of the underlying intergal numeric type.
+
+[Table Of Contents](README.md) 
